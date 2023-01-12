@@ -1,9 +1,9 @@
-import express from 'express' // ESModules
+import express from 'express'
 
 import diaryRouter from './routes/pokemon'
 
 const app = express()
-app.use(express.json()) // middleware que transforma la req.body a un json
+app.use(express.json())
 
 const PORT = 3000
 
