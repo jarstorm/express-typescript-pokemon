@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "date": "2017-01-01",
+        "name": "tentacool",
+        "type": "villain",
+        "comment": "Tentacool (Menokurage) is an aquatic Pokémon based on the box jellyfish."
+    },
+    {
+        "id": 2,
+        "date": "2017-01-02",
+        "name": "blastoise",
+        "type": "hero",
+        "comment": "Charizard, Blastoise, Pikachu, and many other Pokémon have been discovered on planet Earth!"
+    },
+    {
+        "id": 3,
+        "date": "2017-01-03",
+        "name": "beedrill",
+        "type": "hero",
+        "comment": "The two of them run into a wooded area—and right into an angry Beedrill."
+    },
+    {
+        "id": 4,
+        "date": "2017-01-04",
+        "name": "charizard",
+        "type": "villain",
+        "comment": "Charizard, use your Flamethrower!"
+    }
+]
